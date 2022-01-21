@@ -1,0 +1,13 @@
+Operadores Logicos.
+
+-&& analiza dos expresiones y devuele true si la dos expresiones son verdaderas, por lo contrario devuelve false si una o la dos expresiones es o son false.
+
+-|| el operador "OR" lo que hace es analiza la dos expresiones y devuelve true si una o la dos expresiones es true, si la dos son false devuelve false.
+
+-! el operador "NOT" lo que hace es devolver lo conttrario de la expresion.
+
+-For es un bucle, eso quiere decir que se va a repetir las veces que sea necesario hasta encontrar
+lo que estamos buscando o le ponemos una condicion de corte. La expresion for lleva una variable, 
+que se va a repetir sobre esa variable del bucle, una expresion condicional (mientras que sea true 
+que se repita) y el tercero el incremnto de la variable. A los bucles for hay que ponerle una 
+expresion de corte porque sino entra en buclles in finitos y no tiene corte.
