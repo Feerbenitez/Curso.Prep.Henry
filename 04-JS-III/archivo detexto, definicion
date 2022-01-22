@@ -1,0 +1,5 @@
+arrays:
+    los arrays son contenedores de almacenamiento para coleccion de datos. Tiene una 
+    estructura como las repisas, donde se puede recorer y modificar los datos que  contiene.
+    Los arrays guardan todos tipos de datos, pueden del mismo tipo o puede tener varios tipo 
+    caracteres.
