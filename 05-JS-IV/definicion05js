@@ -1,0 +1,12 @@
+-Objetos: Los Objetos son parecidos a las matrices, pero con una diferecia. Mientras que las matrices
+pueden guardar dintinta informarcion, los Objetos pueden tener una informarcion de una misma
+cosa.
+
+-Propiedades:Las Propiedades de los objetos son una asociacion entre un nombre y el valor
+asignado. El valor de una Propiedades puede ser una funcion que se denomina metodo.
+
+-Metodos: Los metodos de un objeto, son funciones asociadas o atributos en forma de funcion.
+
+Bucle for..in:Se utiliza para movernos por las propiedades de un objecto.
+
+-Notacion de punto vs notacion de corchetes: La notacion de punto requieren que los siguientes operandos sean identificadores legales, como variables. Y la notacion de corchete es que requieren una cadena, no necesariamente un nombre de variable.
