@@ -1,0 +1,5 @@
+-Prototype:Es un mecanismo donde los objetos heredan caracteristicas entre si. Tambien se 
+puede usar sus propiedades para agregar metodos a los constructores existente.
+
+-Constructors (clases): Son funciones especiales para crear objetos. Solo puede a ver un solo 
+metodo especial con el nombre constructor. 
