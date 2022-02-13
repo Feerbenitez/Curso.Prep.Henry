@@ -1,0 +1,21 @@
+h1 {
+    color : Orange Red;
+}
+
+img {
+    width: 400 px;
+}
+
+thirdDiv {
+    width:600 px ;
+    height: 500 px;
+    background: brown;
+    padding: 50 px;
+    border: 1 px solid black;
+}
+
+spanId {
+    font-size: 18 px;
+    margin: 50 px;
+}
+
