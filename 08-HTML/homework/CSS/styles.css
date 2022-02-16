@@ -1,31 +1,26 @@
 body {
-    background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fsantinehurtado%2Ffondos-de-river-plate%2F&psig=AOvVaw2gVfjz4sT4FwFTien0KyS8&ust=1644845756924000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD6q4zm_PUCFQAAAAAdAAAAABAJ);
+    background-image: url(river1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 } /*imagen de fondo*/
 
 h1 {
-    color : Orange Red;
+    color: red;
 }
 
 img {
-    width: 400 px;
+    width: 400px;
 }
 
-div {
-    margin: auto;
-    margin-left: auto;
-    margin-right: auto;
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: blue;
+    padding: 50px;
+    border: 10px solid red;
 }
 
-thirdDiv {
-    width:600 px ;
-    height: 500 px;
-    background: brown;
-    padding: 50 px;
-    border: 1 px solid black;
+#spanId {
+    font-size: 18px;
+    margin: 50px;
 }
-
-spanId {
-    font-size: 18 px;
-    margin: 50 px;
-}
-
